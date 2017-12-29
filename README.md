@@ -1,0 +1,2 @@
+# ToxicComments
+The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments.  The objective of this project is to build a multi-headed model that’s capable of detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate. I am using a dataset of comments from Wikipedia’s talk page edits provided on Kaggle
